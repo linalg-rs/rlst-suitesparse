@@ -1,2 +1,2 @@
-# rlst-umfpack
-Umfpack wrapper for Rust
+# rlst-suitesparse-src
+Suitesparse sources for Rust
