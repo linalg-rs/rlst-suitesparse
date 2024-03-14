@@ -1,2 +1,2 @@
-# rlst-suitesparse-src
-Suitesparse sources for Rust
+# rlst-suitesparse
+Suitesparse for Rust
